@@ -78,7 +78,7 @@ public class KnapsackBranchBound {
     public static void main(String[] args) {
         int[] values = {60, 100, 120};
         int[] weights = {10, 20, 30};
-        int capacity = 50;  // Knapsack capacity
+        int capacity = 50; 
         int n = values.length;
 
         int maxProfit = knapsack(values, weights, capacity, n);
