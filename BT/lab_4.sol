@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: Bhide License
+// SPDX-License-Identifier: UnLicense
 pragma solidity ^0.8.0;
 
 contract StudentRegistry {
